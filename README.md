@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [Telegram channel](https://t.me/diyorbekjdk_pft)
 
 <!---
 DiyorbekJDK/DiyorbekJDK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
