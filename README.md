@@ -5,11 +5,14 @@
 
 ###  About me:
 
-Я начинающий веб разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
+I'm interested in any type of coding. I like to code and create new things 
 
-![snake gif](https://github.com/diyorbekjdk/diyorbekjdk/blob/output/github-contribution-grid-snake.gif)
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+
+How to link with me:
+<a href="https://t.me/Diyorbekdavronov07072007" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25" height="25" alt="telegram group" />
+  </a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:diyorbekdavronov07072007@gmail.com)
 
 ---
 
@@ -18,9 +21,6 @@
   <div id="badges">
     <a href="https://t.me/diyorbekjdk_pft" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
@@ -53,19 +53,20 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/DiyorbekJDK/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub stats:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DiyorbekJDK&theme=dark&background=000000" alt="stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiyorbekJDK&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![snake gif](https://github.com/diyorbekjdk/diyorbekjdk/blob/output/github-contribution-grid-snake.gif)
+
