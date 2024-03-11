@@ -47,6 +47,9 @@ How to link with me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" title="Corel Draw" alt="coreldraw" width="40" height="40"/>&nbsp;
+
+      
 </div>
 
 ---
