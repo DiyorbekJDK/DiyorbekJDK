@@ -54,10 +54,6 @@ How to link with me:
 
 ---
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/DiyorbekJDK/badges/large)
-
 ### ⚙️ GitHub stats:
 
 <table>
