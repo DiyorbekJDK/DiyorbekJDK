@@ -1,4 +1,4 @@
-# 👨‍💻 Atom_Prod — Digital Profile
+# 👨‍💻 Diyorbek JDK — Digital Profile
 
 ---
 
@@ -13,19 +13,24 @@
 
 ### 🧾 About me
 
-Hi! Welcome to my channel.  
-Here I will share my opinion and works  
-in different kind of spheres and news.
+Hi! Welcome here.  
+Here I will share my works and projects
+in coding world.
 
 Some short biography of myself:  
 I like to code, and I'm amateur programmer.  
 I have skill on programming spheres like:  
-- AD (KT PL mainly)  
-- Knowledge of Python PL, and writing TB on this language  
+- Android Development (KT mainly)  
+- Knowledge of Python, and writing telegram bots on this language  
   using third-party Libraries.
 
-Also I have some skill in GD, by using programs like:  
-- AP, AIT, CD
+Also I have some skill in graphic design, by using programs like:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="illustrator" width="40" height="40"/>
+  <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" title="Corel Draw" alt="coreldraw" width="40" height="40"/>
+</div>
+
 
 ---
 
@@ -41,7 +46,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 - 🤖 Social Media Bots (Telegram, Discord)  
 - 🎨 Graphic Design:  
   - Posts, stories for Telegram, Instagram  
-  - Logo for your channel/company
+  - Logo for your channel/company/brand
 
 📬 **To place an order:** [@myusername](https://t.me/myusername)
 
@@ -64,9 +69,6 @@ It helps me fill my portfolio and reinforce the knowledge gained.
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="android" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="illustrator" width="40" height="40"/>
-  <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" title="Corel Draw" alt="coreldraw" width="40" height="40"/>
 </div>
 
 ---
