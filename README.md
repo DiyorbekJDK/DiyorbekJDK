@@ -59,13 +59,8 @@ How to link with me:
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DiyorbekJDK&theme=dark&background=000000" alt="stats" />
-    </td>
-    <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiyorbekJDK&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-
-![snake gif](https://github.com/diyorbekjdk/diyorbekjdk/blob/output/github-contribution-grid-snake.gif)
 
