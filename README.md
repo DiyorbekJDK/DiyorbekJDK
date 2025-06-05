@@ -1,66 +1,88 @@
-
-# Hello, name is Diyorbek!
-
----
-
-###  About me:
-
-I'm interested in any type of coding. I like to code and create new things 
-
-
-
-How to link with me:
-<a href="https://t.me/Diyorbekdavronov07072007" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25" height="25" alt="telegram group" />
-  </a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:diyorbekdavronov07072007@gmail.com)
+# 👨‍💻 Atom_Prod — Digital Profile
 
 ---
 
-### 🤝 Social Media:
+### 📍 Basic Info
 
-  <div id="badges">
-    <a href="https://t.me/diyorbekjdk_pft" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
+- **Nickname:** Atom_Prod  
+- **Philosophy:** Learn → Build → Share  
+- **Focus:** Code, Design, Experiments  
+- **Stack:** Python / Kotlin / GD Tools  
 
 ---
 
-### 💻 Skills:
+### 🧾 About me
+
+Hi! Welcome to my channel.  
+Here I will share my opinion and works  
+in different kind of spheres and news.
+
+Some short biography of myself:  
+I like to code, and I'm amateur programmer.  
+I have skill on programming spheres like:  
+- AD (KT PL mainly)  
+- Knowledge of Python PL, and writing TB on this language  
+  using third-party Libraries.
+
+Also I have some skill in GD, by using programs like:  
+- AP, AIT, CD
+
+---
+
+### 🧪 Practice Zone
+
+To practice my skills,  
+I can make any kind of work you want — for **FREE**.  
+It helps me fill my portfolio and reinforce the knowledge gained.
+
+**What I can offer:**
+
+- 📱 Create Android Applications (Kotlin)  
+- 🤖 Social Media Bots (Telegram, Discord)  
+- 🎨 Graphic Design:  
+  - Posts, stories for Telegram, Instagram  
+  - Logo for your channel/company
+
+📬 **To place an order:** [@myusername](https://t.me/myusername)
+
+---
+
+### 🔗 Links
+
+- [GitHub](https://github.com/)  
+- [Instagram](https://instagram.com/)  
+- [Facebook](https://facebook.com/)  
+- [Steam](https://steamcommunity.com/id/atom_prod/)  
+- [Telegram Chat](https://t.me/+Iz6Le_OGpIExNTBi)  
+- [GD Portfolio](https://t.me/my_desing_portfolio)
+
+---
+
+### 🛠️ Tools & Skills
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="android" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="illustrator" width="40" height="40"/>
+  <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" title="Corel Draw" alt="coreldraw" width="40" height="40"/>
 </div>
 
 ---
 
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png?20200803065702" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png?20200803071016" title="intelij idea" alt="intelij idea" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" title="Corel Draw" alt="coreldraw" width="40" height="40"/>&nbsp;
-
-      
-</div>
-
----
-
-### ⚙️ GitHub stats:
+### 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiyorbekJDK&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atom_Prod&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
+---
+
+> 🕐 Online: 08:00 – 12:00 (UTC+)  
+> 🔄 Status: Active / Learning  
+> ✍️ Motto: "Practice beats theory"
