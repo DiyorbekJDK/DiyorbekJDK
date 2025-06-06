@@ -7,7 +7,7 @@
 - **Nickname:** Atom_Prod  
 - **Philosophy:** Learn → Build → Share  
 - **Focus:** Code, Design, Experiments  
-- **knowledge base:** Python / Kotlin / GD Tools  
+- **Knowledge base:** Python / Kotlin / GD Tools  
 
 ---
 
@@ -24,12 +24,25 @@ I have skill on programming spheres like:
 - Knowledge of Python, and writing telegram bots on this language  
   using third-party Libraries.
 
-Also I have some skill in graphic design, by using programs like:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="illustrator" width="40" height="40"/>
-  <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" title="Corel Draw" alt="coreldraw" width="40" height="40"/>
-</div>
+Also I have some skill in **Graphic Design**, and I work with the following tools:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/>
+      <sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator"/><br/>
+      <sub><b>Illustrator</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" width="40" height="40" alt="CorelDRAW"/><br/>
+      <sub><b>CorelDRAW</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
