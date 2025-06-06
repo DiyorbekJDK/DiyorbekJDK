@@ -78,13 +78,11 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 <table>
   <tr>
     <td>
-      <img height="195px" alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atom_Prod&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiyorbekJDK&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
----
-
-> 🕐 Online: 08:00 – 12:00 (UTC+)  
+--- 
 > 🔄 Status: Active / Learning  
 > ✍️ Motto: "Practice beats theory"
