@@ -48,18 +48,13 @@ It helps me fill my portfolio and reinforce the knowledge gained.
   - Posts, stories for Telegram, Instagram  
   - Logo for your channel/company/brand
 
-📬 **To place an order:** [@myusername](https://t.me/myusername)
+📬 **To place an order:** [Write here](https://t.me/Diyorbekdavronov070072007)
 
 ---
 
 ### 🔗 Links
-
-- [GitHub](https://github.com/)  
-- [Instagram](https://instagram.com/)  
-- [Facebook](https://facebook.com/)  
-- [Steam](https://steamcommunity.com/id/atom_prod/)  
-- [Telegram Chat](https://t.me/+Iz6Le_OGpIExNTBi)  
-- [GD Portfolio](https://t.me/my_desing_portfolio)
+- [Telegram Channel](https://t.me/+Iz6Le_OGpIExNTBi)  
+- [Graphic Design Portfolio](https://t.me/my_desing_portfolio)
 
 ---
 
