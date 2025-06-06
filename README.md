@@ -7,7 +7,7 @@
 - **Nickname:** Atom_Prod  
 - **Philosophy:** Learn → Build → Share  
 - **Focus:** Code, Design, Experiments  
-- **Stack:** Python / Kotlin / GD Tools  
+- **knowledge base:** Python / Kotlin / GD Tools  
 
 ---
 
