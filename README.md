@@ -7,15 +7,15 @@
 - **Nickname:** Atom_Prod  
 - **Philosophy:** Learn → Build → Share  
 - **Focus:** Code, Design, Experiments  
-- **Knowledge base:** Python / Kotlin / GD Tools  
+- **Knowledge base:** Python / Kotlin / Graphic Design 
 
 ---
 
 ### 🧾 About me
 
 Hi! Welcome here.  
-Here I will share my works and projects
-in coding world.
+Here I will share my works and projects that were made in as part of the training.
+To see my main projects follow: [Atom_Prod](https://t.me/Diyorbekdavronov070072007)
 
 Some short biography of myself:  
 I like to code, and I'm amateur programmer.  
