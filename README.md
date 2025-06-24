@@ -4,7 +4,7 @@
 
 ### 📍 Basic Info
 
-- **Nickname:** Atom_Prod  
+- **Name:** Diyorbek  
 - **Philosophy:** Learn → Build → Share  
 - **Focus:** Code, Design, Experiments  
 - **Knowledge base:** Python / Kotlin / Graphic Design 
@@ -41,8 +41,6 @@ I like to code, and I'm amateur programmer.
   <h3>🎨 Graphic Design</h3>
 
   <p>
-        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
         <img src="https://img.shields.io/badge/Logo%2FBranding-000000?style=for-the-badge&logo=appveyor&logoColor=white"/>
         <img src="https://img.shields.io/badge/SMD%20Design-8E44AD?style=for-the-badge&logo=hackaday&logoColor=white"/>
         <img src="https://img.shields.io/badge/Packing-7F8C8D?style=for-the-badge&logo=dropbox&logoColor=white"/>
@@ -59,7 +57,7 @@ Documents that confirm my primary skills knowledge base:
 
 
 ### My additional skills: 
-- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>, writing telegram bots on this language  
+- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="bottom"/> and writing telegram bots on this language  
   using third-party Libraries.
 
 ---
