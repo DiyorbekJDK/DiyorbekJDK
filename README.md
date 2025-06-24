@@ -21,14 +21,12 @@ To see my main projects follow: [Atom_Prod](https://github.com/AtomProd)
 
 Some short biography of myself:  
 I like to code, and I'm amateur programmer. 
-My primary skills:
-## 📦 Skill Categories
-
+## My primary skills:
 <table align="center">
   <tr>
     <td valign="top" width="50%">
 
-  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/> Android Development</h3>
+  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20" alt="Android"/> Android Development</h3>
 
    <p>
        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
