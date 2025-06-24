@@ -23,6 +23,42 @@ Some short biography of myself:
 I like to code, and I'm amateur programmer. 
 My primary skills:
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      
+      ### 🤖 Android Development
+
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OOP-282C34?style=for-the-badge&logo=code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      </p>
+      
+    </td>
+    <td valign="top" width="50%">
+
+      ### 🎨 Graphic Design
+
+      <p>
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Logo%2FBranding-000000?style=for-the-badge&logo=branding&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SMD%20Design-8E44AD?style=for-the-badge&logo=circuit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Packing-7F8C8D?style=for-the-badge&logo=box&logoColor=white"/>
+      </p>
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <table>
   <tr>
     <td align="center">
