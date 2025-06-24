@@ -8,6 +8,8 @@
 - **Philosophy:** Learn → Build → Share  
 - **Focus:** Code, Design, Experiments  
 - **Knowledge base:** Python / Kotlin / Graphic Design 
+> 🔄 Status: Active / Learning  
+> ✍️ Motto: "Practice beats theory"
 
 ---
 
@@ -142,23 +144,10 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiyorbekJDK&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=radical&count_private=true" alt="Atom's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
---- 
-> 🔄 Status: Active / Learning  
-> ✍️ Motto: "Practice beats theory"
-
 ---
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%;" />
