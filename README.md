@@ -144,6 +144,11 @@ It helps me fill my portfolio and reinforce the knowledge gained.
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=radical&count_private=true" alt="Atom's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 --- 
 > 🔄 Status: Active / Learning  
 > ✍️ Motto: "Practice beats theory"
