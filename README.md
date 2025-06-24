@@ -98,18 +98,25 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 
   <table>
     <tr>
-      <td width="400" align="center" valign="top">
-        <!-- Replace with your actual stats card URL -->
-        <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=dark" width="380"/>
+      <td width="420" align="center" valign="top">
+        <!-- GitHub Stats -->
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Diyorbek-JDK&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&border_radius=8"
+          width="400" 
+        />
       </td>
-      <td width="400" align="center" valign="top">
-        <!-- Replace with your actual languages usage card URL -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=dark" width="380" />
+      <td width="420" align="center" valign="top">
+        <!-- Most Used Languages -->
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyorbek-JDK&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&border_radius=8"
+          width="400" 
+        />
       </td>
     </tr>
   </table>
 
 </div>
+
 
 
 
