@@ -57,7 +57,7 @@ Documents that confirm my primary skills knowledge base:
 
 
 ### My additional skills: 
-- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="bottom"/> and writing telegram bots on this language  
+- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="bottom" width="100" height="40"/> and writing telegram bots on this language  
   using third-party Libraries.
 
 ---
