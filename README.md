@@ -18,8 +18,53 @@ Here I will share my works and projects that were made in as part of the trainin
 To see my main projects follow: [Atom_Prod](https://github.com/AtomProd)
 
 Some short biography of myself:  
-I like to code, and I'm amateur programmer.  
-I have skill on programming spheres like:  
+I like to code, and I'm amateur programmer. 
+My primary skills:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/><br/>
+      <sub><b>Android</b></sub>
+    </td>
+    <td>
+      <ul>
+        <li><b>Kotlin</b></li>
+        <li><b>Java</b></li>
+        <li><b>OOP</b></li>
+        <li><b>Jetpack Compose</b></li>
+        <li><b>REST API</b></li>
+        <li><b>Database</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/>
+      <sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator"/><br/>
+      <sub><b>Illustrator</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" width="40" height="40" alt="CorelDRAW"/><br/>
+      <sub><b>CorelDRAW</b></sub>
+    </td>
+  </tr>
+</table>
+
+<ul>
+  <li><b>Logo / Branding</b></li>
+  <li><b>Social Media Design</b></li>
+  <li><b>Packaging</b></li>
+</ul>
+
+
+I have skill on programming spheres like  
 - Android Development (KT mainly)  
 - Knowledge of Python, and writing telegram bots on this language  
   using third-party Libraries.
@@ -69,51 +114,12 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 
 ### 📱 Android Development
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/><br/>
-      <sub><b>Android</b></sub>
-    </td>
-    <td>
-      <ul>
-        <li><b>Kotlin</b></li>
-        <li><b>Java</b></li>
-        <li><b>OOP</b></li>
-        <li><b>Jetpack Compose</b></li>
-        <li><b>REST API</b></li>
-        <li><b>Database</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
 ### 🎨 Graphic Design
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/>
-      <sub><b>Photoshop</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator"/><br/>
-      <sub><b>Illustrator</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" width="40" height="40" alt="CorelDRAW"/><br/>
-      <sub><b>CorelDRAW</b></sub>
-    </td>
-  </tr>
-</table>
-
-<ul>
-  <li><b>Logo / Branding</b></li>
-  <li><b>Social Media Design</b></li>
-  <li><b>Packaging</b></li>
-</ul>
 
 ---
 
