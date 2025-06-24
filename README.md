@@ -57,7 +57,7 @@ Documents that confirm my primary skills knowledge base:
 
 
 ### My additional skills: 
-- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="bottom" width="50" height="10"/> and writing telegram bots on this language  
+- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="bottom" width="50" height="15"/> and writing telegram bots on this language  
   using third-party Libraries.
 
 ---
@@ -98,16 +98,19 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 
   <table>
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekjdk&theme=github_dark" width="400"/>
+      <td width="400" align="center" valign="top">
+        <!-- Replace with your actual stats card URL -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Diyorbek-JDK&show_icons=true&theme=dark" width="380" />
       </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diyorbekjdk&theme=github_dark" width="400"/>
+      <td width="400" align="center" valign="top">
+        <!-- Replace with your actual languages usage card URL -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyorbek-JDK&layout=compact&theme=dark" width="380" />
       </td>
     </tr>
   </table>
 
 </div>
+
 
 
 ---
