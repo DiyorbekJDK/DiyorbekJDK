@@ -52,9 +52,8 @@ I like to code, and I'm amateur programmer.
   </tr>
 </table>
 
-### My additional skills:
-- Android Development (KT mainly)  
-- Knowledge of Python, and writing telegram bots on this language  
+### My additional skills: 
+- Knowledge of Python programming language, writing telegram bots on this language  
   using third-party Libraries.
 
 ---
@@ -76,6 +75,9 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 📬 **To place an order:** [Write here](https://t.me/Diyorbekdavronov070072007)
 
 ---
+
+### Currently learning:
+-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>, <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>,  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 
 ### 🔗 Links
