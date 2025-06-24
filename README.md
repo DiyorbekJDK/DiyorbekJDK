@@ -57,7 +57,7 @@ Documents that confirm my primary skills knowledge base:
 
 
 ### My additional skills: 
-- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="bottom" width="48" height="17"/> and writing telegram bots on this language  
+- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="bottom" width="52" height="17"/> and writing telegram bots on this language  
   using third-party Libraries.
 
 ---
@@ -100,7 +100,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
     <tr>
       <td width="400" align="center" valign="top">
         <!-- Replace with your actual stats card URL -->
-        <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=dark" width="380" />
+        <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=dark" width="380" height="300"/>
       </td>
       <td width="400" align="center" valign="top">
         <!-- Replace with your actual languages usage card URL -->
