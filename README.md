@@ -26,7 +26,7 @@ I like to code, and I'm amateur programmer.
   <tr>
     <td valign="top" width="50%">
 
-  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="25" height="25" align="bottom" alt="Android"/> Android Development</h3>
+  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="25" height="25" align="middle" alt="Android"/> Android Development</h3>
 
    <p>
        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -76,19 +76,6 @@ It helps me fill my portfolio and reinforce the knowledge gained.
   - Logo for your channel/company/brand
 
 📬 **To place an order:** [Write here](https://t.me/Diyorbekdavronov070072007)
-
----
-
----
-
-### 📱 Android Development
-
-
-
----
-
-### 🎨 Graphic Design
-
 
 ---
 
