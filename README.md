@@ -26,7 +26,7 @@ I like to code, and I'm amateur programmer.
   <tr>
     <td valign="top" width="50%">
 
-  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20" alt="Android"/> Android Development</h3>
+  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="10" height="10" align="middle" alt="Android"/> Android Development</h3>
 
    <p>
        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -53,51 +53,6 @@ I like to code, and I'm amateur programmer.
   </td>
   </tr>
 </table>
-
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/><br/>
-      <sub><b>Android</b></sub>
-    </td>
-    <td>
-      <ul>
-        <li><b>Kotlin</b></li>
-        <li><b>Java</b></li>
-        <li><b>OOP</b></li>
-        <li><b>Jetpack Compose</b></li>
-        <li><b>REST API</b></li>
-        <li><b>Database</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/>
-      <sub><b>Photoshop</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator"/><br/>
-      <sub><b>Illustrator</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" width="40" height="40" alt="CorelDRAW"/><br/>
-      <sub><b>CorelDRAW</b></sub>
-    </td>
-  </tr>
-</table>
-
-<ul>
-  <li><b>Logo / Branding</b></li>
-  <li><b>Social Media Design</b></li>
-  <li><b>Packaging</b></li>
-</ul>
-
 
 I have skill on programming spheres like  
 - Android Development (KT mainly)  
