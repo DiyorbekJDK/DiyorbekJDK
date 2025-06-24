@@ -1,4 +1,4 @@
-# 👨‍💻 Diyorbek JDK — Digital Profile
+# Diyorbek JDK
 
 ---
 
@@ -52,8 +52,14 @@ I like to code, and I'm amateur programmer.
   </tr>
 </table>
 
+Documents that confirm my primary skills knowledge base: 
+- [Link one](https://)  
+- [Link two](https://)
+- [Link three](https://)
+
+
 ### My additional skills: 
-- Knowledge of Python programming language, writing telegram bots on this language  
+- Knowledge of <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>, writing telegram bots on this language  
   using third-party Libraries.
 
 ---
@@ -66,9 +72,9 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 
 **What I can offer:**
 
-- 📱 Create Android Applications (Kotlin)  
-- 🤖 Social Media Bots (Telegram, Discord)  
-- 🎨 Graphic Design:  
+-  Create Android Applications (Kotlin)  
+-  Social Media Bots (Telegram, Discord)  
+-  Graphic Design:  
   - Posts, stories for Telegram, Instagram  
   - Logo for your channel/company/brand
 
