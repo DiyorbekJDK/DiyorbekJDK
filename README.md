@@ -100,7 +100,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
     <tr>
       <td width="400" align="center" valign="top">
         <!-- Replace with your actual stats card URL -->
-        <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=dark" width="380" height="100"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=dark" width="380" height="200"/>
       </td>
       <td width="400" align="center" valign="top">
         <!-- Replace with your actual languages usage card URL -->
