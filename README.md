@@ -28,7 +28,7 @@ My primary skills:
   <tr>
     <td valign="top" width="50%">
 
-  <h3>🤖 Android Development</h3>
+  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/> Android Development</h3>
 
    <p>
        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
