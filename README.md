@@ -26,7 +26,7 @@ I like to code, and I'm amateur programmer.
   <tr>
     <td valign="top" width="50%">
 
-  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="25" height="25" align="top" alt="Android"/> Android Development</h3>
+  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="25" height="25" align="bottom" alt="Android"/> Android Development</h3>
 
    <p>
        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -54,31 +54,10 @@ I like to code, and I'm amateur programmer.
   </tr>
 </table>
 
-I have skill on programming spheres like  
+### My additional skills:
 - Android Development (KT mainly)  
 - Knowledge of Python, and writing telegram bots on this language  
   using third-party Libraries.
-
-Also I have some skill in **Graphic Design**, and I work with the following tools:
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/>
-      <sub><b>Photoshop</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator"/><br/>
-      <sub><b>Illustrator</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://static.tildacdn.com/tild3264-3962-4331-a238-623261636161/coreldraw-icon.png" width="40" height="40" alt="CorelDRAW"/><br/>
-      <sub><b>CorelDRAW</b></sub>
-    </td>
-  </tr>
-</table>
-
-
 
 ---
 
