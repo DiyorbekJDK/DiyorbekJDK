@@ -8,8 +8,6 @@
 - **Philosophy:** Learn → Build → Share  
 - **Focus:** Code, Design, Experiments  
 - **Knowledge base:** Python / Kotlin / Graphic Design 
-> 🔄 Status: Active / Learning  
-> ✍️ Motto: "Practice beats theory"
 
 ---
 
@@ -26,7 +24,7 @@ I like to code, and I'm amateur programmer.
   <tr>
     <td valign="top" width="50%">
 
-  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="25" height="25" align="middle" alt="Android"/> Android Development</h3>
+  <h3> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="25" height="25" align="top" alt="Android"/> Android Development</h3>
 
    <p>
        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -86,22 +84,13 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 
 ---
 
-### 🛠️ Tools & Skills
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="android" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=radical&count_private=true" alt="Atom's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=radical&count_private=true" alt="DiyorbekJDK's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 ---
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%;" />
