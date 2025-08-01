@@ -15,7 +15,7 @@
 
 Hi! Welcome here.  
 Here I will share my works and projects that were made in as part of the training.
-To see my main projects follow: [Atom_Prod](https://github.com/AtomProd)
+[comment]: <> (To see my main projects follow: [Atom_Prod](https://github.com/AtomProd))
 
 Some short biography of myself:  
 I like to code, and I'm amateur programmer. 
