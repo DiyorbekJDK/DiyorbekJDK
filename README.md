@@ -75,7 +75,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
   - Posts, stories for Telegram, Instagram  
   - Logo for your channel/company/brand
 
-📬 **To place an order:** [Write here](https://t.me/Diyorbekdavronov070072007)
+📬 **To place an order:** [Contact me there](https://t.me/Diyorbekdavronov070072007)
 
 ---
 
