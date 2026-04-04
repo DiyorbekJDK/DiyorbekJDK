@@ -4,7 +4,7 @@
 
 ### 📍 Basic Info
 
-- **Name:** Diyorbek(or just Diyor)
+- **Name:** Diyorbek (or just Diyor)
 - **Philosophy:** Learn → Build → Share  
 - **Focus:** Code, Design, Experiments  
 - **Knowledge base:** Python / Kotlin / Graphic Design 
