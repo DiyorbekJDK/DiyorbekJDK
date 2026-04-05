@@ -103,7 +103,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
           src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk"
           width="400" 
         /> -->
-       github-metrics.svg
+       https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg
       </td>
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
