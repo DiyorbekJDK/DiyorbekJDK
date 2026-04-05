@@ -104,6 +104,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
           width="400" 
         /> 
       </td>
+<!--
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
        <img 
