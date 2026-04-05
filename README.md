@@ -103,18 +103,14 @@ It helps me fill my portfolio and reinforce the knowledge gained.
        <!-- <img 
           src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk"
           width="400" 
-        /> -->
-     <!--  https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg
-        ![Stats](https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg)
-        -->
-        
+        /> 
       </td>
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
       <!--  <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=radical"
           width="400" 
-        /> -->
+        /> 
       </td>
     </tr>
     -->
