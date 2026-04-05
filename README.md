@@ -110,10 +110,10 @@ It helps me fill my portfolio and reinforce the knowledge gained.
       </td>
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
-        <img 
+      <!--  <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=radical"
           width="400" 
-        />
+        /> -->
       </td>
     </tr>
   </table>
