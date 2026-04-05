@@ -100,7 +100,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
       <td width="420" align="center" valign="top">
         <!-- GitHub Stats -->
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=anuraghazra"
+          src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk"
           width="400" 
         />
       </td>
