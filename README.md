@@ -99,10 +99,11 @@ It helps me fill my portfolio and reinforce the knowledge gained.
     <tr>
       <td width="420" align="center" valign="top">
         <!-- GitHub Stats -->
-        <img 
+       <!-- <img 
           src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk"
           width="400" 
-        />
+        /> -->
+       ![My Metrics](github-metrics.svg)
       </td>
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
