@@ -104,6 +104,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
           width="400" 
         /> -->
        https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg
+        ![Stats](https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg)
       </td>
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
