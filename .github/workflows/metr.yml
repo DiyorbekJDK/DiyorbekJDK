@@ -11,14 +11,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: DiyorbekJDK
           template: classic
-          base: "" 
+          base: header, community, repositories, metadata
           config_timezone: UTC
-          
-          # Оставляем только языки пока не починим токен
           plugin_languages: yes
-          plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          
-          # Попробуй убрать habits на один запуск, чтобы проверить языки
-          plugin_habits: no 
+          plugin_languages_details: percentage
 
