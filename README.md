@@ -94,8 +94,8 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <table>
+<img src="https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg" alt="Stats"" />
+ <!-- <table>
     <tr>
       <td width="420" align="center" valign="top">
         <!-- GitHub Stats -->
@@ -106,7 +106,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
      <!--  https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg
         ![Stats](https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg)
         -->
-        <img src="https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg" alt="Stats"" />
+        
       </td>
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
@@ -116,8 +116,6 @@ It helps me fill my portfolio and reinforce the knowledge gained.
         /> -->
       </td>
     </tr>
-  </table>
-
 </div>
 
 
