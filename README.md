@@ -94,24 +94,30 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 ### 📊 GitHub Stats
 
 <div align="center">
- <table>
+
+  <table>
     <tr>
       <td width="420" align="center" valign="top">
         <!-- GitHub Stats -->
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk"
+          src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=radical&"
           width="400" 
-        /> 
+        />
       </td>
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
-       <img 
+        <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=radical"
           width="400" 
-        /> 
+        />
       </td>
     </tr>
+  </table>
+
 </div>
+
+
+
 
 ---
 
@@ -120,5 +126,4 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diyorbekjdk&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
 
