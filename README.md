@@ -95,7 +95,8 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg" alt="Stats"" />
- <!-- <table>
+   <!--
+ <table>
     <tr>
       <td width="420" align="center" valign="top">
         <!-- GitHub Stats -->
@@ -116,6 +117,7 @@ It helps me fill my portfolio and reinforce the knowledge gained.
         /> -->
       </td>
     </tr>
+    -->
 </div>
 
 
