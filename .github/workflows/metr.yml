@@ -11,25 +11,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: DiyorbekJDK
           template: classic
-          base: "" # Скрываем стандартную шапку
+          base: "" 
           config_timezone: UTC
           
-          # Настройки темы как на фото
-          config_order: habits, languages
-          output_action: commit
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
-
-          # Блок языков (как на нижней части фото)
+          # Оставляем только языки пока не починим токен
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_limit: 8
           
-          # Блок "Стриков" (как на верхней части фото)
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_days: 14
-          
-          # Цветовая схема (близкая к фото)
-          config_theme: radical 
+          # Попробуй убрать habits на один запуск, чтобы проверить языки
+          plugin_habits: no 
 
