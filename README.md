@@ -90,37 +90,31 @@ It helps me fill my portfolio and reinforce the knowledge gained.
 - [Graphic Design Portfolio](https://t.me/my_desing_portfolio)
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/DiyorbekJDK/DiyorbekJDK/main/github-metrics.svg" alt="Stats"" />
  <table>
     <tr>
       <td width="420" align="center" valign="top">
         <!-- GitHub Stats -->
-        <!--
         <img 
           src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk"
           width="400" 
         /> 
       </td>
-      -->
-<!--
       <td width="420" align="center" valign="top">
         <!-- Most Used Languages -->
-        <!--
        <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=radical"
           width="400" 
         /> 
       </td>
     </tr>
-    -->
-<!--
+  
+
 </div>
----
--->
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%;" />
 
 <p align="center">
