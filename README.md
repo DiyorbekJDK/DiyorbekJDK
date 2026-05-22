@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  [![Telegram](https://img.shields.io/badge/Telegram-@Diyorbekdavronov-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Diyorbekdavronov070072007)
+  [![Telegram](https://img.shields.io/badge/Telegram-@Diyorbekdavronov-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Diyorbekdavronov07072007)
   [![Design Portfolio](https://img.shields.io/badge/Design%20Portfolio-View%20Work-8E44AD?style=flat-square&logo=telegram&logoColor=white)](https://t.me/my_desing_portfolio)
   [![Channel](https://img.shields.io/badge/Telegram%20Channel-Follow-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+Iz6Le_OGpIExNTBi)
   ![Profile Views](https://komarev.com/ghpvc/?username=diyorbekjdk&style=flat-square&color=58a6ff&label=Profile+Views)
