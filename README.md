@@ -73,8 +73,6 @@ Currently expanding into game development with **C++ / C# / Unity**.
 | Graphic Design | Digital Academy · Digital City | 🥈 B | 2024 | [View →](https://your-link-here) |
 | Android Development *(Framed)* | Digital City IT Academy | 🥇 A | 2023 | [View →](https://your-link-here) |
 
-> 📌 *Replace the links above with your uploaded certificate images or Google Drive / Imgur links.*
-
 ---
 
 ## 🤝 Open to Collaboration
