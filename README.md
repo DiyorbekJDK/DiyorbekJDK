@@ -6,7 +6,8 @@
 
 <div align="center">
 
-  [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Diyorbekdavronov07072007)
+  [![Website](https://img.shields.io/badge/Portfolio%20Website-diyorbekjdk.github.io-58a6ff?style=flat-square&logo=github&logoColor=white)](https://diyorbekjdk.github.io)
+  [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Diyorbekdavronov070072007)
   [![Design Portfolio](https://img.shields.io/badge/Design%20Portfolio-View%20Work-8E44AD?style=flat-square&logo=telegram&logoColor=white)](https://t.me/my_desing_portfolio)
   [![Channel](https://img.shields.io/badge/Telegram%20Channel-Follow-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+Iz6Le_OGpIExNTBi)
   ![Profile Views](https://komarev.com/ghpvc/?username=diyorbekjdk&style=flat-square&color=58a6ff&label=Profile+Views)
@@ -25,38 +26,34 @@ Currently expanding into game development with **C++ / C# / Unity**.
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/> Android Development
+## 📱 Android Development
+> 🏅 Certificate of Completion — **Grade A** · Digital City, 2023
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room%20%2F%20DAO-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-282C34?style=for-the-badge&logo=buffer&logoColor=white)
 
-  </td>
-  <td valign="top" width="50%">
+---
 
-### 🎨 Graphic Design
+## 🎨 Graphic Design
+> 🏅 Certificate — **Grade B** · Digital Academy powered by Digital City, 2024
 
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Branding](https://img.shields.io/badge/Logo%20%26%20Branding-000000?style=for-the-badge&logo=sass&logoColor=white)
 ![SMM Design](https://img.shields.io/badge/SMM%20Design-8E44AD?style=for-the-badge&logo=instagram&logoColor=white)
 ![Packaging](https://img.shields.io/badge/Packaging-7F8C8D?style=for-the-badge&logo=box&logoColor=white)
 
-### 🤖 Scripting & Bots
+---
+
+## 🤖 Scripting & Bots
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-  </td>
-  </tr>
-</table>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -68,22 +65,15 @@ Currently expanding into game development with **C++ / C# / Unity**.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certificates
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=diyorbekjdk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="400"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekjdk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="400"/>
-      </td>
-    </tr>
-  </table>
+| Course | Institution | Grade | Year | Link |
+|--------|------------|-------|------|------|
+| Android Development | Digital City IT Academy | 🥇 A | 2023 | [View →](https://your-link-here) |
+| Graphic Design | Digital Academy · Digital City | 🥈 B | 2024 | [View →](https://your-link-here) |
+| Android Development *(Framed)* | Digital City IT Academy | 🥇 A | 2023 | [View →](https://your-link-here) |
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diyorbekjdk&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" width="500"/>
-</div>
+> 📌 *Replace the links above with your uploaded certificate images or Google Drive / Imgur links.*
 
 ---
 
