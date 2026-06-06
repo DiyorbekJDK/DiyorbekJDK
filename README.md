@@ -20,7 +20,7 @@
 
 > *Learn → Build → Share*
 
-I'm a self-driven developer and designer passionate about building useful things from scratch. My journey is focused on Android development with Kotlin and visual communication through graphic design — combining clean code with thoughtful aesthetics.
+Hi! My names is Diyorbek. I'm a self-driven developer and designer passionate about building useful things from scratch. My journey is focused on Android development with Kotlin and visual communication through graphic design — combining clean code with thoughtful aesthetics.
 
 Currently expanding into game development with **C++ / C# / Unity**.
 
