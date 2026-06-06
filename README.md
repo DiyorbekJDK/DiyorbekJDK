@@ -69,7 +69,7 @@ Currently expanding into game development with **C++ / C# / Unity**.
 
 | Course | Institution | Grade | Year | Link |
 |--------|------------|-------|------|------|
-| Android Development | Digital City IT Academy | 🥇 A | 2023 | [View →](https://your-link-here) |
+| Android Development | Digital City IT Academy | 🥇 A | 2023 | [View →](images/cert-android-1.jpg) |
 | Graphic Design | Digital Academy · Digital City | 🥈 B | 2024 | [View →](https://your-link-here) |
 | Android Development *(Framed)* | Digital City IT Academy | 🥇 A | 2023 | [View →](https://your-link-here) |
 
