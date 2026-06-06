@@ -69,7 +69,7 @@ Currently expanding into game development with **C++ / C# / Unity**.
 
 | Course | Institution | Grade | Year | Link |
 |--------|------------|-------|------|------|
-| Android Development | Digital City IT Academy | 🥇 A | 2023 | [View →](images/cert-android-1.jpg) |
+| Android Development | Digital City IT Academy | 🥇 A | 2023 | [View →](https://github.com/DiyorbekJDK/diyorbekjdk.github.io/blob/main/images/cert-android-1.jpg) |
 | Graphic Design | Digital Academy · Digital City | 🥈 B | 2024 | [View →](https://your-link-here) |
 | Android Development *(Framed)* | Digital City IT Academy | 🥇 A | 2023 | [View →](https://your-link-here) |
 
@@ -79,7 +79,7 @@ Currently expanding into game development with **C++ / C# / Unity**.
 
 I'm always interested in working on interesting projects — whether it's an Android app, a Telegram bot, or design work. If you have an idea you'd like to bring to life, feel free to reach out.
 
-📬 **Contact:** [Telegram → @Diyorbekdavronov](https://t.me/Diyorbekdavronov070072007)
+📬 **Contact:** [Telegram → Diyorbek](https://t.me/Diyorbekdavronov070072007)
 
 ---
 
