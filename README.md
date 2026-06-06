@@ -7,7 +7,7 @@
 <div align="center">
 
   [![Website](https://img.shields.io/badge/Portfolio%20Website-diyorbekjdk.github.io-58a6ff?style=flat-square&logo=github&logoColor=white)](https://diyorbekjdk.github.io)
-  [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Diyorbekdavronov070072007)
+  [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Diyorbekdavronov07072007)
   [![Design Portfolio](https://img.shields.io/badge/Design%20Portfolio-View%20Work-8E44AD?style=flat-square&logo=telegram&logoColor=white)](https://t.me/my_desing_portfolio)
   [![Channel](https://img.shields.io/badge/Telegram%20Channel-Follow-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+Iz6Le_OGpIExNTBi)
   ![Profile Views](https://komarev.com/ghpvc/?username=diyorbekjdk&style=flat-square&color=58a6ff&label=Profile+Views)
@@ -70,8 +70,8 @@ Currently expanding into game development with **C++ / C# / Unity**.
 | Course | Institution | Grade | Year | Link |
 |--------|------------|-------|------|------|
 | Android Development | Digital City IT Academy | 🥇 A | 2023 | [View →](https://github.com/DiyorbekJDK/diyorbekjdk.github.io/blob/main/images/cert-android-1.jpg) |
-| Graphic Design | Digital Academy · Digital City | 🥈 B | 2024 | [View →](https://your-link-here) |
-| Android Development *(Framed)* | Digital City IT Academy | 🥇 A | 2023 | [View →](https://your-link-here) |
+| Graphic Design | Digital Academy · Digital City | 🥈 B | 2024 | [View →](https://github.com/DiyorbekJDK/diyorbekjdk.github.io/blob/main/images/cert-design.jpg) |
+| Android Development *(Framed)* | Digital City IT Academy | 🥇 A | 2023 | [View →](https://github.com/DiyorbekJDK/diyorbekjdk.github.io/blob/main/images/cert-android-2.jpg) |
 
 ---
 
@@ -79,7 +79,7 @@ Currently expanding into game development with **C++ / C# / Unity**.
 
 I'm always interested in working on interesting projects — whether it's an Android app, a Telegram bot, or design work. If you have an idea you'd like to bring to life, feel free to reach out.
 
-📬 **Contact:** [Telegram → Diyorbek](https://t.me/Diyorbekdavronov070072007)
+📬 **Contact:** [Telegram → Diyorbek](https://t.me/Diyorbekdavronov07072007)
 
 ---
 
